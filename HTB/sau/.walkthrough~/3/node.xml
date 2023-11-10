@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Exploitation" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699635818" ts_lastsave="1699636265">
+    <rich_text>Searched for ‘</rich_text>
+    <rich_text weight="heavy">Maltrail</rich_text>
+    <rich_text> </rich_text>
+    <rich_text weight="heavy">v0.53</rich_text>
+    <rich_text>’ Exploit and found this:
+</rich_text>
+    <rich_text link="webs https://github.com/spookier/Maltrail-v0.53-Exploit/blob/main/exploit.py">https://github.com/spookier/Maltrail-v0.53-Exploit/blob/main/exploit.py</rich_text>
+    <rich_text> 
+
+
+
+</rich_text>
+    <rich_text scale="h2">Got Shell YAYYYY!!</rich_text>
+    <rich_text>
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="128" justification="left" link="" sha256sum="1a440fa943835f819a0c55207d5e336a11195a8c7b16d36657f3a98e4b07606f"/>
+    <encoded_png char_offset="151" justification="left" link="" sha256sum="fc001412fbc45f03532cc4f60e119416f4a7c0868f8e4e0f99c8816c15dbf76f"/>
+  </node>
+</cherrytree>

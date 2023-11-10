@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Scanning and Enumeration" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699633707" ts_lastsave="1699635515">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+Here we can do some interesting things:
+
+
+
+Forward request to anywhere we want. So,
+
+
+
+As the port 
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="41055a7b79d68ba2e25033053d98014bbfb2f013a7539c285b12053205276c41"/>
+    <encoded_png char_offset="6" justification="left" link="" sha256sum="a3f82add7cbf11e3dc5bea154691e0d092c5cc310d6d5d4501f39c00c2285d6e"/>
+    <encoded_png char_offset="9" justification="left" link="" sha256sum="1f46af4a2b66cc1e51a9ac2426dfb62254c509269bbda580a155756a2092280f"/>
+    <encoded_png char_offset="53" justification="left" link="" sha256sum="c2e60102f367642ab02d56b0b62c92a9e30898b0f210dad9b953d6fa702224bc"/>
+    <encoded_png char_offset="98" justification="left" link="" sha256sum="bbb1dc193b6f39aa355bea03f2bb779b636ef86a8d0309463a03cb0041bf0740"/>
+  </node>
+</cherrytree>

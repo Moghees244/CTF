@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="pric esc" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699646221" ts_lastsave="1699648561">
+    <rich_text>
+
+
+
+But not working.</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="89e6c8c8b97e1b4e410c13be402159dcfe57a01a2fae23db00ad3e14c2a9e4a4"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="daedea504f9aeb6da28c5ab0f98a99982321bcfab4c1d8995753fc3c848cc079"/>
+  </node>
+</cherrytree>

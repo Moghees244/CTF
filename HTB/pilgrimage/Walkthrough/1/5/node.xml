@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="pric esc" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699646221" ts_lastsave="1699649327">
+    <rich_text>
+
+
+
+But not working.
+
+The exploit was already in there.
+
+
+
+
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="89e6c8c8b97e1b4e410c13be402159dcfe57a01a2fae23db00ad3e14c2a9e4a4"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="daedea504f9aeb6da28c5ab0f98a99982321bcfab4c1d8995753fc3c848cc079"/>
+    <encoded_png char_offset="59" justification="left" link="" sha256sum="1bcdf27adc949550f15431135277ad18c395baf6bf6c3a8679ae665054cb0b45"/>
+    <encoded_png char_offset="62" justification="left" link="" sha256sum="01ed1f22a4440bd46ea824b15b10c04aaf853b80d7d12c001071f96301e0308f"/>
+    <encoded_png char_offset="65" justification="left" link="" sha256sum="60ce56778538374b3f47088f4f8afbc3706fa2faa638689c21dfee6f3e809d10"/>
+    <encoded_png char_offset="68" justification="left" link="" sha256sum="1a34c17b7fd55d819a73b4ad91f3b7128c603de6c7516856f43ec7cf62de7f79"/>
+  </node>
+</cherrytree>

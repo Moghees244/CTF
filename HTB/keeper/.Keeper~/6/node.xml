@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Login Brute Force" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699622768" ts_lastsave="1699623782">
+    <rich_text>- Brute forcing ‘lnorgaard’
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+Not Worlki</rich_text>
+    <encoded_png char_offset="29" justification="left" link="" sha256sum="2d45951266b27289d08cbd11b97bcb702a9880b5c08d95fb4d72c798553fad10"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="gdb" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699117008" ts_lastsave="1699117139">
+    <rich_text>
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="78b46d155d91aee1f9a130ef9dac74b30553f5d55c938e2949afb4f8d3cd387e"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="a41712b59e80712266a89774a87b63e86a59c44c088de416bf0bfb5448364d96"/>
+  </node>
+</cherrytree>

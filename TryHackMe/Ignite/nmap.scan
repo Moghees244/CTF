@@ -1,0 +1,32 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-08 14:01 PKT
+Warning: 10.10.113.170 giving up on port because retransmission cap hit (6).
+Nmap scan report for 10.10.113.170
+Host is up (0.22s latency).
+Not shown: 65516 closed tcp ports (conn-refused)
+PORT      STATE    SERVICE    VERSION
+80/tcp    open     http       Apache httpd 2.4.18 ((Ubuntu))
+| http-robots.txt: 1 disallowed entry 
+|_/fuel/
+|_http-title: Welcome to FUEL CMS
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+267/tcp   filtered td-service
+8624/tcp  filtered unknown
+11855/tcp filtered unknown
+13729/tcp filtered unknown
+15411/tcp filtered unknown
+17357/tcp filtered unknown
+25284/tcp filtered unknown
+29447/tcp filtered unknown
+30269/tcp filtered unknown
+34119/tcp filtered unknown
+37507/tcp filtered unknown
+38404/tcp filtered unknown
+41228/tcp filtered unknown
+41852/tcp filtered unknown
+42849/tcp filtered unknown
+52423/tcp filtered unknown
+59896/tcp filtered unknown
+64507/tcp filtered unknown
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1030.08 seconds

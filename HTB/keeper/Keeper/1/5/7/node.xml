@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="See Password from Website" unique_id="7" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699623827" ts_lastsave="1699623861">
+    <rich_text>
+
+- As ‘root’ I can see and update passwords of users.</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="e037515e742bb9b518841f952302bec236b1a5cea290bb45a3cff5095cf65679"/>
+  </node>
+</cherrytree>

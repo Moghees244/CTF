@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="file tool" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699116714" ts_lastsave="1699116753">
+    <rich_text>
+
+The file is not stripped which means,while making the executable ‘-g’ flag was used and that information is still on file.</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="bff59ef0d97b98c9c720718e63bd56d9f69e13939a268aa791169d7a9e8dda4c"/>
+  </node>
+</cherrytree>

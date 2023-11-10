@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="ltrace" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699118008" ts_lastsave="1699118521">
+    <rich_text>
+
+Nothing special</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="1dba216996bfe1d8ce0269f9941231260ff765df3595f65d96dbafda03129691"/>
+  </node>
+</cherrytree>

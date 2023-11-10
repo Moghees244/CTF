@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="priv esc" unique_id="9" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699623908" ts_lastsave="1699629960">
+    <rich_text>
+
+- Looked for the details about these files.
+
+
+
+</rich_text>
+    <rich_text link="webs https://www.bleepingcomputer.com/news/security/keepass-exploit-helps-retrieve-cleartext-master-password-fix-coming-soon/">https://www.bleepingcomputer.com/news/security/keepass-exploit-helps-retrieve-cleartext-master-password-fix-coming-soon/</rich_text>
+    <rich_text>
+
+- After reading it I searched for exploit and found about </rich_text>
+    <rich_text link="webs https://nvd.nist.gov/vuln/detail/cve-2023-32784">
+</rich_text>
+    <rich_text link="webs https://nvd.nist.gov/vuln/detail/cve-2023-32784" scale="h3">CVE-2023-32784</rich_text>
+    <rich_text>
+
+- </rich_text>
+    <rich_text link="webs https://github.com/CMEPW/keepass-dump-masterkey">https://github.com/CMEPW/keepass-dump-masterkey</rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+- These passwords are not complete, So I searched in ‘rockyou.txt’.
+
+
+
+</rich_text>
+    <rich_text scale="h3">- The  password is </rich_text>
+    <rich_text scale="h3" weight="heavy">“3rdgrade”</rich_text>
+    <rich_text scale="h3">.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h3">- Now  opening the ‘</rich_text>
+    <rich_text scale="h3" weight="heavy">password.kdbx</rich_text>
+    <rich_text scale="h3">’ file.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h1">That was DUMB !!!! Look at the length of predicted password and the real one XD
+
+</rich_text>
+    <rich_text>Now to find the real password, search google:
+
+
+
+
+
+
+
+- Downloaded KeePass and Opened the file in windows.
+- Here's what I found:
+
+
+
+
+
+
+
+</rich_text>
+    <rich_text scale="h2">The Password for ‘</rich_text>
+    <rich_text scale="h2" weight="heavy">root</rich_text>
+    <rich_text scale="h2">’ is '</rich_text>
+    <rich_text scale="h2" weight="heavy">F4&gt;&lt;3K0nd!</rich_text>
+    <rich_text scale="h2">'</rich_text>
+    <rich_text>
+
+BUT THIS HAPPENED
+
+
+
+Then I used this :
+
+
+
+
+
+
+</rich_text>
+    <rich_text scale="h1">YAYYYYY!!!</rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="06709e8e0ca8e10c3f448c565ae4a212ec8863b89959959e0c32ea39dc6f3116"/>
+    <encoded_png char_offset="48" justification="left" link="" sha256sum="4ce5f06ec7ecec136906742274f4eeb3e2cac9fa652120a373253028e4ec4ec1"/>
+    <encoded_png char_offset="299" justification="left" link="" sha256sum="4c5915cdd49cbcd0b5b7facd18245e2b42f6b7cc662d5bbf336afeefad676c44"/>
+    <encoded_png char_offset="302" justification="left" link="" sha256sum="39ce4a69568920adaec102c86e510be6aa16616ebbd1597b81eeb6fd11a3f317"/>
+    <encoded_png char_offset="305" justification="left" link="" sha256sum="fa890d3a0217bc0bb2bbb22565d35cfaba1c8c6d2ce0e9b956abae9e540cedfa"/>
+    <encoded_png char_offset="378" justification="left" link="" sha256sum="4fc9707a97ce497ab27888a0870a1703c7b7300ae2b253fc2790fab28bb96db7"/>
+    <encoded_png char_offset="583" justification="left" link="" sha256sum="4bdeeb917b3cc8ab9367eb1eae24d0f19712e049933acf40b2c1d733028d8244"/>
+    <encoded_png char_offset="588" justification="left" link="" sha256sum="967ef5dbe1437a9c084aab2c5aa6e0e1d781bd5461ed977b56cd819c3932b328"/>
+    <encoded_png char_offset="668" justification="left" link="" sha256sum="622b2a751af4bf1dd1ccf6dfdf9e27e0a6257c3f77db9fc17b4b3fe1dda5b763"/>
+    <encoded_png char_offset="671" justification="left" link="" sha256sum="83ea698e320f3c50d19904cb4062f8383d8b0d3e055f298763cbc8e02f78b1db"/>
+    <encoded_png char_offset="674" justification="left" link="" sha256sum="5e7971ed5814be003e63cbbc3440f0edcce0abe1a5cd5c4a581a0c2017f3a4a0"/>
+    <encoded_png char_offset="737" justification="left" link="" sha256sum="5994e8ba9aab1ff7b7c4ea0b173e407b7d8d2ca3c44fabcf2a5f1e32cee3b845"/>
+    <encoded_png char_offset="760" justification="left" link="" sha256sum="8f8176fb5f61704ce9aa01efcca359e457901b607c6b4e71af6c215daf9a515f"/>
+    <encoded_png char_offset="763" justification="left" link="" sha256sum="0e1465abf375e623781beecdb44b1f16b20e0006a8d2b1d84451df968b6ada2a"/>
+  </node>
+</cherrytree>

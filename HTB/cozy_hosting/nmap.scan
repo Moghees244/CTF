@@ -1,0 +1,25 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-12 00:55 PKT
+Nmap scan report for cozyhosting.htb (10.10.11.230)
+Host is up (0.19s latency).
+Not shown: 989 closed tcp ports (conn-refused)
+PORT     STATE SERVICE         VERSION
+22/tcp   open  ssh             OpenSSH 8.9p1 Ubuntu 3ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 43:56:bc:a7:f2:ec:46:dd:c1:0f:83:30:4c:2c:aa:a8 (ECDSA)
+|_  256 6f:7a:6c:3f:a6:8d:e2:75:95:d4:7b:71:ac:4f:7e:42 (ED25519)
+80/tcp   open  http            nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: Cozy Hosting - Home
+1234/tcp open  hotline?
+4444/tcp open  krb524?
+4445/tcp open  upnotifyp?
+8000/tcp open  http-alt?
+8083/tcp open  us-srv?
+8888/tcp open  sun-answerbook?
+9001/tcp open  tor-orport?
+9002/tcp open  dynamid?
+9090/tcp open  zeus-admin?
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 157.28 seconds

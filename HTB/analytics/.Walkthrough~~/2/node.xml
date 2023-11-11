@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Scanning and Enumeration" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699650721" ts_lastsave="1699650801">
+    <rich_text>
+
+
+
+
+This website is using "</rich_text>
+    <rich_text weight="heavy">Metabase</rich_text>
+    <rich_text>". So, look for exploits:
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="b3e54318881c213b8b8beccdb9dd2795403e9899eab902f2b3ee49e2645d6f0a"/>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="b3b4fce64399189e4e2d55741e069a672b68811e484208a04e996d84d1e4f775"/>
+  </node>
+</cherrytree>

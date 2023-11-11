@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="priv esc" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699689541" ts_lastsave="1699692017">
+    <rich_text>
+
+
+
+
+
+</rich_text>
+    <rich_text scale="h3">Brute Force the password</rich_text>
+    <rich_text>
+
+
+
+
+The script is vulnerable as you will get partial password when you use </rich_text>
+    <rich_text weight="heavy">*</rich_text>
+    <rich_text> with a character. (Hint)
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="fe6bef71a3949ef71a287e261c4eac6c1401a5cc1e92f5d806d317f8d8077a2b"/>
+    <encoded_png char_offset="4" justification="left" link="" sha256sum="e62fe6e0628a543dee58b87322b9c666ce5a35731b21b97604b1114f37c7fe80"/>
+    <encoded_png char_offset="34" justification="left" link="" sha256sum="e7884e3a9185cefedf13ad7b5b4c24e9c24e160b0ebfb9414fcd5a68e7dba9c1"/>
+    <encoded_png char_offset="137" justification="left" link="" sha256sum="5002821b79627ccc9fba55ab8f74ddfee6de732b64f10fc093650c3e29e4d6e3"/>
+    <encoded_png char_offset="140" justification="left" link="" sha256sum="9ed1502eb84c6c4996bbfb229e5efe86e5d53d8b6f52027ac1525bc99a12c6cd"/>
+  </node>
+</cherrytree>

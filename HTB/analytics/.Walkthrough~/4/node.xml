@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="user flag" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699651452" ts_lastsave="1699653854">
+    <rich_text scale="h3">THERE WAS NO USER FLAG IN </rich_text>
+    <rich_text scale="h3" weight="heavy">/home/metabase</rich_text>
+    <rich_text>
+
+- Ran </rich_text>
+    <rich_text weight="heavy">linpeas.sh</rich_text>
+    <rich_text>
+
+
+
+found username and password.
+
+Username : metalytics
+Password :  An4lytics_ds20223#
+
+
+
+
+Got foothold.</rich_text>
+    <encoded_png char_offset="60" justification="left" link="" sha256sum="2d5cf9db84eb7e4aa9c0b86f1158aad0be12b4548869b23a7c49b3067ce548dd"/>
+    <encoded_png char_offset="148" justification="left" link="" sha256sum="baa96d6299a45fcdcc9b65673f176ec98e80a23d685043de453067ed1d7f4cac"/>
+  </node>
+</cherrytree>

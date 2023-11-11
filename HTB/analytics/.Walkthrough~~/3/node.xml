@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Exploitation" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699651323" ts_lastsave="1699651345">
+    <rich_text link="webs https://github.com/m3m0o/metabase-pre-auth-rce-poc/tree/main">https://github.com/m3m0o/metabase-pre-auth-rce-poc/tree/main</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="63" justification="left" link="" sha256sum="5aff6ad501903d6bf78310dbca3fd51a936e17d1db987a19d142e164a6830250"/>
+  </node>
+</cherrytree>

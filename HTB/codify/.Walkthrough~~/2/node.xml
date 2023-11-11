@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Scanning and Enumeration" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699686847" ts_lastsave="1699688466">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+- Since we can run js code. 
+
+
+
+
+
+- Looked for exploits related to </rich_text>
+    <rich_text weight="heavy">vm2</rich_text>
+    <rich_text>. Got this:
+</rich_text>
+    <rich_text link="webs https://gist.github.com/leesh3288/f05730165799bf56d70391f3d9ea187c">https://gist.github.com/leesh3288/f05730165799bf56d70391f3d9ea187c</rich_text>
+    <rich_text>
+
+but 
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="604f53fd2862e9ddbea91f3270383dc82dd05a77cbccac542d3b30a0574ec0c9"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="24d9b224935de15e9c29c2cbc0284c0ae15de006792d07bb7487e43867274dd3"/>
+    <encoded_png char_offset="36" justification="left" link="" sha256sum="ab74d5056c6aa40497a473c7d9a235275c41bbb43fb42ccb8f22f88f3d8aa9cc"/>
+    <encoded_png char_offset="39" justification="left" link="" sha256sum="70a362670965047f3c5d9142fdf34558a246ba57aa98d22e7f64fe928ed1221d"/>
+    <encoded_png char_offset="163" justification="left" link="" sha256sum="abe711f810327c95623c2087fe6745df886c952cb3630dbcc11dd6fa8167df70"/>
+  </node>
+</cherrytree>

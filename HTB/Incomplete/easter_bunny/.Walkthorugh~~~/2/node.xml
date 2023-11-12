@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Enumeration" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699778456" ts_lastsave="1699778474">
+    <rich_text>
+
+
+- Taking input from user.
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="2760f79ea6dd4c0ebae8fc84ec161c937df8192c5be28fb632f958839db385f5"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="exploitation" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699741232" ts_lastsave="1699742049">
+    <rich_text link="webs https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet/tree/master">https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet/tree/master</rich_text>
+    <rich_text>
+
+Tried to get reverse shell but failed. Then realised no need for that. Get flag from there.
+
+
+
+</rich_text>
+    <encoded_png char_offset="169" justification="left" link="" sha256sum="37662d6b83ea45ba77a0120cade85ffff96e1d38bb4df15b7720b4744395ab95"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="priv esc" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699914208" ts_lastsave="1699915256">
+    <rich_text>
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="014187b0e1abce6b0ea431890a3afe5851c945445a77b174f1d1f492c29a443a"/>
+  </node>
+</cherrytree>

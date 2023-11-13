@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Exploitation" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699908370" ts_lastsave="1699913907">
+    <rich_text link="webs https://exploit-notes.hdks.org/exploit/web/security-risk/latex-injection/">https://exploit-notes.hdks.org/exploit/web/security-risk/latex-injection/</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <rich_text scale="h2">HINT : </rich_text>
+    <rich_text scale="h2" foreground="#d1cdc7">/var/www/dev/.htpasswd</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+
+
+
+
+Username : vdaisley
+Password Hash : $apr1$1ONUB/S2$58eeNVirnRDB5zAIbIxTY0
+Password : calculus20 </rich_text>
+    <encoded_png char_offset="75" justification="left" link="" sha256sum="de76ca6b574567452968359d7eeab812200c6d4efb53e9a801b14d95e73fed19"/>
+    <encoded_png char_offset="78" justification="left" link="" sha256sum="c5a27853e696523c313e9666ada72d4f2dd9c82bc8487410b73b40e486ca6e39"/>
+    <encoded_png char_offset="81" justification="left" link="" sha256sum="e55156c4b8a6beb01f090cb31515604cb415303d520626cbfb076b8423250e6c"/>
+    <encoded_png char_offset="116" justification="left" link="" sha256sum="41a21b965b6ad0971c1a4657983a54a3388c343d54c582ca13db60a5e8b3894f"/>
+    <encoded_png char_offset="119" justification="left" link="" sha256sum="fe54bcdf75b292aa9fd1f489ace3157cae679198498f9c7e4e1e1b6d3523523a"/>
+    <encoded_png char_offset="123" justification="left" link="" sha256sum="d361e4438e00daa47fbe20663a50219208eb55efd7339c9e8856d858b3f1022f"/>
+  </node>
+</cherrytree>

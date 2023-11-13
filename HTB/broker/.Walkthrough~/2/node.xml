@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Scanning and Enumeration" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699821593" ts_lastsave="1699821658">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+- Opened website and a login prompt appeared. Used Default Credentials:
+Username : admin
+Password : admin
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="734855c5ccd7765b1732c4bb92f8267665589736977fa8ebdbf5f53d13a7f332"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="priv esc" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699822965" ts_lastsave="1699871393">
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+Make a server using nginx
+- Make your own conf file and make a vulnerable server.
+
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="747389c1db53ab25ec0be6bb6b482d23952a1169e7f18af9a974474993a8b389"/>
+    <encoded_png char_offset="87" justification="left" link="" sha256sum="89610c945095d63e25326515a49e44706b6a7d4728ec176536bf17867f52e823"/>
+    <encoded_png char_offset="90" justification="left" link="" sha256sum="468447ca934a569bd14db01e247ea5637b93dc1afaeeb90b038f9b0017e65c07"/>
+  </node>
+</cherrytree>

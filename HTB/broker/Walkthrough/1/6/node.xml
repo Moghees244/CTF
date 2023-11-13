@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="root flag" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699871412" ts_lastsave="1699871423">
+    <rich_text>
+
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="ba1b393d6513a061cbcd4200f3a0ab320315e018539f7522f638d3b175bfe97b"/>
+    <encoded_png char_offset="3" justification="left" link="" sha256sum="a2014bb002cbf3e968cd87152d200402a5dc044e5e53b86e7454177c1624182a"/>
+  </node>
+</cherrytree>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="priv esc" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1701063522" ts_lastsave="1701064883">
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text scale="h2" weight="heavy">CVE-2023-1326 </rich_text>
+    <rich_text weight="heavy">
+</rich_text>
+    <rich_text>
+
+
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="4e0f098ce0719c0e5cb00e8ed5263c8b85ea58f8fdba9e767be549e20b2510f5"/>
+    <encoded_png char_offset="22" justification="left" link="" sha256sum="136f4007251954ab61f8e5239c86ff4c2c11d33fcce4abad0dddca5a801ab485"/>
+  </node>
+</cherrytree>

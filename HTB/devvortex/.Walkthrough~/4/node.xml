@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="user flag" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1701060002" ts_lastsave="1701063462">
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">
+ssh Credentials : </rich_text>
+    <rich_text>
+Username : </rich_text>
+    <rich_text weight="heavy">logan</rich_text>
+    <rich_text>
+Password : </rich_text>
+    <rich_text weight="heavy">tequieromucho</rich_text>
+    <rich_text>
+</rich_text>
+    <encoded_png char_offset="0" justification="left" link="" sha256sum="b6019b915ff167d3b8b7f6579a08428ac0c86b4eb0c8b12a2b24ac713a548bce"/>
+  </node>
+</cherrytree>

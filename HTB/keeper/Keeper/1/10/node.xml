@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cherrytree>
-  <node name="root flag" unique_id="10" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699629973" ts_lastsave="1699629989">
-    <rich_text>
-</rich_text>
-    <encoded_png char_offset="0" justification="left" link="" sha256sum="16bc684414daaf246c3d7a761254f3f2b9cc2b30b124aeefe343a223e8cb777a"/>
-  </node>
-</cherrytree>

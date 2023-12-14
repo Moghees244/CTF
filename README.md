@@ -1,12 +1,12 @@
 # Capture The Flags Repository
 
-Welcome to my Capture The Flags (CTF) repository! Here, you'll find comprehensive reports and details for all the exciting Labs and CTF challenges I've conquered, spanning platforms such as HackTheBox, TryHackMe, and Seed Labs. This repository serves as a testament to my journey in the realm of cybersecurity, showcasing my problem-solving skills and progress in various cybersecurity challenges.
+Welcome to my Capture The Flags (CTF) repository! Here, you'll find comprehensive reports and details for all the exciting Labs and CTF challenges I've conquered, spanning platforms such as 
 
-## Table of Contents
+- [HackTheBox](https://app.hackthebox.com/profile/1169705)
+- [TryHackMe](https://tryhackme.com/p/mogheesahmad244) 
+- [Seed Labs](https://seedsecuritylabs.org/)
 
-1. [HackTheBox](#https://app.hackthebox.com/profile/1169705)
-2. [TryHackMe](#https://tryhackme.com/p/mogheesahmad244)
-3. [Seed Security Labs](#https://seedsecuritylabs.org/)
+This repository serves as a testament to my journey in the realm of cybersecurity, showcasing my problem-solving skills and progress in various cybersecurity challenges.
 
 ## How to Use This Repository
 

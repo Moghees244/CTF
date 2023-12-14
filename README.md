@@ -12,4 +12,4 @@ This repository serves as a testament to my journey in the realm of cybersecurit
 
 Feel free to navigate through the folders corresponding to each platform and challenge. Each challenge folder contains detailed reports, including description, the approach taken, exploits and tools used. Whether you're a fellow cybersecurity enthusiast or a mentor, I hope you find value and inspiration in my journey.
 
-- **Moghees Ahmad**
+**Moghees Ahmad**

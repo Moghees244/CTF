@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Attacking NLP" unique_id="3" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1702644999" ts_lastsave="1702645145">
+    <rich_text scale="h3" weight="heavy">Prompt Injection</rich_text>
+    <rich_text>
+
+Prompt injection attacks manipulate a chatbot's responses by inserting specific queries, tricking it into unexpected reactions.
+These attacks could range from extracting sensitive info to spewing out misleading responses.
+</rich_text>
+    <rich_text weight="heavy">
+Attack Example:</rich_text>
+    <rich_text>
+
+</rich_text>
+  </node>
+</cherrytree>

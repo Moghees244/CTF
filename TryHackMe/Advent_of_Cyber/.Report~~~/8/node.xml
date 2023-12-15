@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Attack Using Hydra" unique_id="8" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1702646558" ts_lastsave="1702646821">
+    <rich_text weight="heavy">Command:</rich_text>
+    <rich_text>
+	</rich_text>
+    <rich_text weight="heavy">hydra -l '' -P 3digits.txt -f -v 10.10.84.177 http-post-form "/login.php:pin=^PASS^:Access denied" -s 8000</rich_text>
+    <rich_text>
+	
+The command above will try one password after another in the 3digits.txt file. It specifies the following:
+
+- </rich_text>
+    <rich_text weight="heavy">-l '</rich_text>
+    <rich_text>' indicates that the login name is blank as the security lock only requires a password
+- </rich_text>
+    <rich_text weight="heavy">-P</rich_text>
+    <rich_text> 3digits.txt specifies the password file to use
+- </rich_text>
+    <rich_text weight="heavy">-f</rich_text>
+    <rich_text> stops Hydra after finding a working password
+- </rich_text>
+    <rich_text weight="heavy">-v</rich_text>
+    <rich_text> provides verbose output and is helpful for catching errors
+- </rich_text>
+    <rich_text weight="heavy">10.10.84.177</rich_text>
+    <rich_text> is the IP address of the target
+- </rich_text>
+    <rich_text weight="heavy">http-post-form</rich_text>
+    <rich_text> specifies the HTTP method to use
+- "</rich_text>
+    <rich_text weight="heavy">/login.php:pin=^PASS^:Access denied</rich_text>
+    <rich_text>" has three parts separated by :
+	- </rich_text>
+    <rich_text weight="heavy">/login.php</rich_text>
+    <rich_text> is the page where the PIN code is submitted
+	- </rich_text>
+    <rich_text weight="heavy">pin=^PASS^</rich_text>
+    <rich_text> will replace ^PASS^ with values from the password list
+	- </rich_text>
+    <rich_text weight="heavy">Access denied</rich_text>
+    <rich_text> indicates that invalid passwords will lead to a page that contains the text “Access denied”
+- </rich_text>
+    <rich_text weight="heavy">-s 8000</rich_text>
+    <rich_text> indicates the port number on the target
+	
+
+
+
+</rich_text>
+    <encoded_png char_offset="942" justification="left" link="" sha256sum="8caa547df3d480ae6e2e8a04e79b4988c1006ec6a6e75c24bde5ae8f37aeee9d"/>
+  </node>
+</cherrytree>

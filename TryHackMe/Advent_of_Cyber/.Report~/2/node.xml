@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Day-01" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1702644819" ts_lastsave="1702645372">
+    <rich_text scale="h2" weight="heavy">Machine Learning : Chatbot, tell me, if you're really safe?</rich_text>
+    <rich_text scale="h2">
+</rich_text>
+    <rich_text weight="heavy">
+Learning Objectives:</rich_text>
+    <rich_text>
+
+• Learn about natural language processing, which powers modern AI chatbots.
+• Learn about prompt injection attacks and the common ways to carry them out.
+• Learn how to defend against prompt injection attacks.</rich_text>
+  </node>
+</cherrytree>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cherrytree>
-  <node name="strings tool" unique_id="5" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1699117510" ts_lastsave="1699117535">
-    <rich_text>
-</rich_text>
-    <encoded_png char_offset="0" justification="left" link="" sha256sum="ac81aaf52fd85ee2c92955564d4ce981e3127a57049b11ccab24641e74a7ed82"/>
-  </node>
-</cherrytree>

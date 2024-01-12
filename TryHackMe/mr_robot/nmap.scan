@@ -1,0 +1,35 @@
+# Nmap 7.94SVN scan initiated Fri Jan 12 15:53:04 2024 as: nmap --top-ports 20 -sC -sV -oN nmap.scan 10.10.201.68
+Nmap scan report for 10.10.201.68
+Host is up (0.18s latency).
+
+PORT     STATE    SERVICE       VERSION
+21/tcp   filtered ftp
+22/tcp   closed   ssh
+23/tcp   filtered telnet
+25/tcp   filtered smtp
+53/tcp   filtered domain
+80/tcp   open     http          Apache httpd
+|_http-title: Site doesn't have a title (text/html).
+|_http-server-header: Apache
+110/tcp  filtered pop3
+111/tcp  filtered rpcbind
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+143/tcp  filtered imap
+443/tcp  open     ssl/http      Apache httpd
+|_http-title: Site doesn't have a title (text/html).
+|_http-server-header: Apache
+| ssl-cert: Subject: commonName=www.example.com
+| Not valid before: 2015-09-16T10:45:03
+|_Not valid after:  2025-09-13T10:45:03
+445/tcp  filtered microsoft-ds
+993/tcp  filtered imaps
+995/tcp  filtered pop3s
+1723/tcp filtered pptp
+3306/tcp filtered mysql
+3389/tcp filtered ms-wbt-server
+5900/tcp filtered vnc
+8080/tcp filtered http-proxy
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jan 12 15:53:30 2024 -- 1 IP address (1 host up) scanned in 25.87 seconds

@@ -1,0 +1,14 @@
+POST /content/as/?type=signin&timeStamp=1705432249751 HTTP/1.1
+Host: 10.10.35.103
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 41
+Origin: http://10.10.35.103
+Connection: close
+Referer: http://10.10.35.103/content/as/
+Cookie: dashboad_bg=#705e5d; top_height=normal; sweetrice=a9o4mpmbf02pk23i7sa9tv7f66
+
+user=NAMEFUZZ&passwd=PASSFUZZ&rememberMe=
